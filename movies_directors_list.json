@@ -1,4 +1,16 @@
 {
-  "movieTmdbIds": [548, 346, 1091],
-  "directorNames": ["Akira Kurosawa"]
+  "movies": [
+    "Rashomon (1950)",
+    "Zootropolis 2",
+    { "tmdb_id": 1091 },
+    { "title": "Ghost in the Shell" }
+  ],
+  "directors": [
+    "Akira Kurosawa",
+    "John Carpenter",
+     "Sergio Leone", 
+    "John Woo", 
+    "Takeshi Kitano", 
+    "Orson Welles",
+  ]
 }
