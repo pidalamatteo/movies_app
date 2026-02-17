@@ -1,7 +1,7 @@
 {
   "movies": [
     "Rashomon (1950)",
-    "Zootropolis 2",
+    "Zootropolis",
     { "tmdb_id": 1091 },
     { "title": "Ghost in the Shell" }
   ],
