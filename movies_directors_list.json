@@ -1,7 +1,10 @@
 {
   "movies": [
     "Rashomon (1950)",
-    "Zootropolis",
+    "Grosso guaio a Chinatown",
+    "La cosa",
+    "Anatomia di un rapimento",
+    "No other choice",
     { "tmdb_id": 1091 },
     { "title": "Ghost in the Shell" }
   ],
