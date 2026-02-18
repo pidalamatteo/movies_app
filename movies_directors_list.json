@@ -1,5 +1,6 @@
 {
   "movies": [
+    "Avalon (2001)",
     "Rashomon (1950)",
     "Grosso guaio a Chinatown",
     "La cosa (1982)",
@@ -15,8 +16,8 @@
     "Akira Kurosawa",
     "John Carpenter",
     "Sergio Leone",
-    "John Woo",
-    "Takeshi Kitano",
+    "_comment":"John Woo",
+    "_comment":"Takeshi Kitano",
     "Orson Welles"
   ]
 }
