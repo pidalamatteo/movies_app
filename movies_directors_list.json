@@ -2,12 +2,18 @@
   "movies": [
     "Avalon (2001)",
     "Rashomon (1950)",
+    "I sette samurai",
     "Grosso guaio a Chinatown",
     "La cosa (1982)",
     "Anatomia di un rapimento",
     "No other choice",
     "L'infernale Quinlan",
     "Quarto potere",
+    "Il seme della follia",
+    "Fuga da New york",
+    "Fuga da Los Angeles",
+    "Essi vivono",
+    "L'uovo dell'angelo",
     "La signora di Shangai",
     { "tmdb_id": 1091 },
     { "title": "Ghost in the Shell" }
@@ -16,8 +22,8 @@
     "Akira Kurosawa",
     "John Carpenter",
     "Sergio Leone",
-    "_comment":"John Woo",
-    "_comment":"Takeshi Kitano",
+    "John Woo",
+    "Takeshi Kitano",
     "Orson Welles"
   ]
 }
